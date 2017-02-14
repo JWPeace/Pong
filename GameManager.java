@@ -1,5 +1,21 @@
 package edu.neumont.csc150.PongContol;
 
-public class GameManager {
+import edu.neumont.csc150.PongModel;
 
+public class GameManager {
+	
+	public GameManager()
+	{
+		
+	}
+	
+	public void run()
+	{
+		
+	}
+	
+	public void reset()
+	{
+		
+	}
 }
