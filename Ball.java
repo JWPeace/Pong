@@ -28,7 +28,7 @@ public class Ball{
 	public int getLocationY(){
 		return locationY;
 	}	
-	public void setSizeY(int locationY){
+	public void setLocationY(int locationY){
 		this.locationY = locationY;
 	}
 }
